@@ -16,12 +16,6 @@ This repository contains tools, scripts, and documentation related to **Invicti 
 
 ---
 
-bash
-Sao chép
-Chỉnh sửa
-git clone https://github.com/your-username/invicti-professional-toolkit.git
-Browse the /api-scripts directory for example usage:
-
 ⚠️ Legal Disclaimer
 This repository is provided strictly for educational purposes. It does not include any cracked software, unauthorized binaries, or pirated content. Use of Invicti Professional requires a valid license from the vendor.
 
